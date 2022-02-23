@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cristian Elias Weirich</h1>
 <h3 align="center">A passionate Full Stack developer from Brazil</h3>
 
-- 📫 How to reach me **network@cristianelias.com.br**
+- 📫 How to reach me **network@cristianw.dev**
 
-- 📄 Know about my experiences [https://cristianelias.com.br/resume](https://cristianelias.com.br/resume)
+- 📄 Know about my experiences [https://cristianw.dev/resume](https://cristianw.dev/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
